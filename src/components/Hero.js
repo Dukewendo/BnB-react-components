@@ -5,6 +5,6 @@ export default function Hero() {
 
 
     return(
-        <img src={Group77} alt="hero" />
+        <img className='hero--img' src={Group77} alt="hero" />
     )
 }
